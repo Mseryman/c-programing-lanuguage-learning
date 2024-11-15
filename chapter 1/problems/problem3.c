@@ -1,3 +1,5 @@
+// to convert degree celcius into degree fahrenheit.
+
 #include <stdio.h>
 
 int main(){

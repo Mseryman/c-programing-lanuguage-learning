@@ -1,3 +1,5 @@
+// To find the are of a rectangle while the length and the breadth should be taken as inputs from the user.
+
 #include <stdio.h>
 
 int main(){
